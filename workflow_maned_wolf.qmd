@@ -37,9 +37,9 @@ show_code_step <- function(path, start, end, label = NULL) {
 
 ```
 
-## Note {.unnumbered}
+## Notes {.unnumbered}
 
-This document includes the code used to conduct the analyses and is intended to support inspection of the analytical workflow. The workflow follows this order:
+This document includes the code used to conduct the analyses and is intended to support inspection of the analytical workflow. All files displayed in this annotated code are available for download from the [project repository](https://github.com/anayoko/maned-wolf-mange-movement/). The workflow follows this order:
 
 1. **GPS data cleaning and processing with `ctmm`**
 2. **Home range estimation and home range overlap**
