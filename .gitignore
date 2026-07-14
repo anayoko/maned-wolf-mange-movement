@@ -15,3 +15,5 @@ data/raster/mapbiomas_10m_sp_2023-0000000000-0000000000.tif
 output/
 
 **/*.quarto_ipynb
+
+/.quarto/
