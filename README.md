@@ -27,12 +27,6 @@ install.packages(c(
 
 Before running scripts 04 and 05, download the MapBiomas raster described above. Run scripts `01_data_cleaning.R` through `07_inspect_TEHS_results.R` in numerical order; the derived `output/` directory is intentionally ignored by Git and will be regenerated locally.
 
-## Render the site
+## Annotated Code
 
-From the repository root, run:
-
-```bash
-quarto render workflow_maned_wolf.qmd
-```
-
-The rendered self-contained page is written to `docs/index.html`. The source document displays the numbered analytical scripts and the accessory functions needed to read those displayed code blocks; it does not execute the analyses.
+The repository also includes an annotated-code page, generated from `workflow_maned_wolf.qmd` with Quarto. It presents the complete workflow with explanatory notes, collapsible code blocks, and the final figures. Access the rendered HTML page at [https://anayoko.github.io/maned-wolf-mange-movement/](https://anayoko.github.io/maned-wolf-mange-movement/).
