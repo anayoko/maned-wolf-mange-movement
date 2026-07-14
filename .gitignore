@@ -1,0 +1,17 @@
+# macOS Finder metadata
+.DS_Store
+
+# Quarto and rendered caches
+.quarto/
+_freeze/
+*_cache/
+*_files/
+workflow_maned_wolf_cache/
+
+# Large local raster required for the TEHS analysis
+data/raster/mapbiomas_10m_sp_2023-0000000000-0000000000.tif
+
+# Derived analytical products
+output/
+
+**/*.quarto_ipynb

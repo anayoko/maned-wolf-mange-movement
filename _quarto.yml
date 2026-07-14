@@ -1,0 +1,22 @@
+project:
+  type: default
+  output-dir: docs
+  render:
+    - workflow_maned_wolf.qmd
+
+execute:
+  echo: false
+  warning: false
+  message: false
+  freeze: false
+
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-fold: false
+    embed-resources: true
+    css: styles.css
+    theme: default
+    df-print: paged

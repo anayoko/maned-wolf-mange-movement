@@ -1,0 +1,35 @@
+body {
+  line-height: 1.65;
+}
+
+.quarto-title-block .quarto-title-banner {
+  background: linear-gradient(135deg, #e9f1f8 0%, #f7f2e9 100%);
+  color: #1f2f3a;
+}
+
+.callout {
+  border-radius: 0.5rem;
+}
+
+details.script-block {
+  margin: 1rem 0 1.5rem;
+  padding: 0.9rem 1rem;
+  border: 1px solid #d8dee4;
+  border-radius: 0.6rem;
+  background: #fafbfc;
+}
+
+details.script-block summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: #1f2f3a;
+}
+
+details.script-block pre {
+  margin-top: 1rem;
+}
+
+.workflow-note {
+  font-size: 0.95rem;
+  color: #495057;
+}
