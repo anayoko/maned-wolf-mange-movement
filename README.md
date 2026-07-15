@@ -29,4 +29,4 @@ Before running scripts 04 and 05, download the MapBiomas raster described above.
 
 ## Annotated Code
 
-The repository also includes an annotated-code page, generated from `workflow_maned_wolf.qmd` with Quarto. It presents the complete workflow with explanatory notes, collapsible code blocks, and the final figures. Access the rendered HTML page at [https://anayoko.github.io/maned-wolf-mange-movement/](https://anayoko.github.io/maned-wolf-mange-movement/).
+The repository also includes an annotated-code page, generated from `workflow_maned_wolf.qmd` with Quarto. It presents the complete workflow with explanatory notes, collapsible code blocks, and the final figures. Access the rendered HTML page at [https://manedwolf.anameiga.com/](https://manedwolf.anameiga.com/).
